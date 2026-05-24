@@ -1,6 +1,6 @@
-# 🎓 University GPA Calculator Bot (`@FourZeroGuardBot`)
+# 🎓 University GPA Calculator Bot (`@FourZeroGuardBot_bot`)
 
-[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram)](https://telegram.me/FourZeroGuardBot)
+[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram)](https://t.me/FourZeroGuardBot_bot)
 [![Scale](https://img.shields.io/badge/GPA%20Scale-4.0-🎯%20Gold?style=for-the-badge)](#)
 
 An interactive and feature-rich Telegram Bot tailored for university students to calculate both **Semester and Cumulative GPA** using the standard US/Gulf **4.0 scale**. 
@@ -11,7 +11,7 @@ Unlike basic calculators, this bot features advanced, built-in academic logic to
 
 ## 🚀 Live Demo
 Try the bot live on Telegram right now:
-🔗 **[Click Here to Launch the Bot | @FourZeroGuardBot](https://telegram.me/FourZeroGuardBot)**
+🔗 **[Click Here to Launch the Bot | @FourZeroGuardBot_bot](https://t.me/FourZeroGuardBot_bot)**
 
 ---
 
@@ -66,5 +66,5 @@ The bot utilizes the following standard point distribution:
 ## 📞 Contact & Support
 If you have any questions, suggestions, or feature requests, feel free to reach out:
 * **Developer:** QAIS SHLASH
-* **Telegram:** [🔗 @qaisshlash](https://telegram.me/qaisshlash)
-* 
+* **Telegram:** [🔗 @qaisshlash](https://t.me/qaisshlash)
+* ص
