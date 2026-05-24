@@ -33,7 +33,7 @@ Here is a live look at how the bot interacts with students seamlessly inside Tel
 
 | 1. Main Menu (`/start`) | 2. Data Entry & Grade Selection | 3. Successful Course Insertion |
 | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/qaisshlash177-alt/University-GPA-Calculator-Bot/main/68075.jpg" width="230" alt="Main Menu"/> | <img src="https://raw.githubusercontent.com/qaisshlash177-alt/University-GPA-Calculator-Bot/main/68074.jpg" width="230" alt="Grade Selection"/> | <img src="https://raw.githubusercontent.com/qaisshlash177-alt/University-GPA-Calculator-Bot/main/68073.jpg" width="230" alt="Course Added"/> |
+| <img src="68075.jpg" width="230" alt="Main Menu"/> | <img src="68074.jpg" width="230" alt="Grade Selection"/> | <img src="68073.jpg" width="230" alt="Course Added"/> |
 
 ---
 
