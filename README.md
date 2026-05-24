@@ -67,4 +67,4 @@ The bot utilizes the following standard point distribution:
 If you have any questions, suggestions, or feature requests, feel free to reach out:
 * **Developer:** QAIS SHLASH
 * **Telegram:** [🔗 @qaisshlash](https://t.me/qaisshlash)
-* ص
+  
